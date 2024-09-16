@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q1huDFAZCK8qWnSw1V4Ph+au3pg7B20YY9BFF7oWFik=",
+  "Source": "EngineTestAPI",
+  "BasePath": "_content/EngineTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

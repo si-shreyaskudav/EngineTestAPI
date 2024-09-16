@@ -1,0 +1,11 @@
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\EngineTestAPI.exe
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\EngineTestAPI.dll
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\EngineTestAPI.deps.json
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\EngineTestAPI.runtimeconfig.json
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\EngineTestAPI.pdb
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fantasy-Engine\DockerTest\EngineTestAPI\EngineTestAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
